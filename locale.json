@@ -1,0 +1,12 @@
+{
+    "fr": {
+        "name": "Détecteur d'eau",
+        "no-connection": "Problème au niveau du détecteur d'eau: panne d'électricité ?",
+        "water-detected": "De l'eau a été détecté, veuillez vérifier."
+    },
+    "en": {
+        "name": "Water detector",
+        "no-connection": "Problem with the water detector: power failure?",
+        "water-detected": "Water has been detected, please check."
+    }
+}
