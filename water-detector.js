@@ -27,6 +27,7 @@ app.get('/water-detected', (req, res) => {
 
 app.get('/water-detector-connected', (req, res) => {
     lastConnection = (new Date()).getTime();
+    // console.log(lastConnection);
     res.json({status: 'ok'});
 });
 
